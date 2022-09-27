@@ -26,3 +26,9 @@ Activity2: (had to change machines as windows was not being convinient)
 2_2:
 
 <img width="368" alt="image" src="https://user-images.githubusercontent.com/46113981/192627165-96cc5fc7-1018-4b16-abb7-ebd69e065b34.png">
+
+
+Activity 3: 
+
+<img width="556" alt="image" src="https://user-images.githubusercontent.com/46113981/192636648-544cbf65-f999-4c6a-b40b-ce6e7991749c.png">
+
