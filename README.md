@@ -12,4 +12,17 @@ The code examples for the first edition of the book were moved to a different re
 
 
 Activity 1: 
+
 <img width="674" alt="image" src="https://user-images.githubusercontent.com/46113981/192416468-400b5e89-8051-452c-baf4-267404bd684a.png">
+
+
+Activity2: (had to change machines as windows was not being convinient)
+2_1:
+
+<img width="519" alt="image" src="https://user-images.githubusercontent.com/46113981/192626322-eead59e5-3784-460c-a1dd-e1ecb1fb8118.png">
+
+<img width="359" alt="image" src="https://user-images.githubusercontent.com/46113981/192626403-6c5751ef-c587-48ad-b1ba-b8b0d43e5607.png">
+
+2_2:
+
+<img width="368" alt="image" src="https://user-images.githubusercontent.com/46113981/192627165-96cc5fc7-1018-4b16-abb7-ebd69e065b34.png">
